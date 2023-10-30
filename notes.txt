@@ -1,0 +1,35 @@
+
+Ideen: 
+
+1. Mitten im Spiel abbrechen
+2. Wieder zum Anfang springen wenn das Spiel vorbei ist. [✅]
+3. Und nen coolen Ladebalken
+4. Timer ?
+5. Wenn wollen Highscore ---> Json
+
+1. Zuerst git pull verwenden dann git add, git, commit und git push 
+
+Ziele für 25.10.2023
+1. Den Code kürzen. Unnötige Zeilen einsparen(no Repeat) [✅]
+2. Das Design um es aufzuhübschen(Farben). [❌] (Angefangen)
+3. Refactoring(Den Code durchgehen und Fehler ausmerzen) [✅][❌] (Fehler können immer wiederkehren)
+4. Sätze umformulieren mit mehr Branches. [❌] (Angefangen)
+5. Einen oberKUHLEN(coolen) Namen für unser Spiel erfinden. [❌] (Angefangen)
+
+
+Optionale Einstellungen:
+1. Die Maus verwenden um das Spiel zu bedienen.
+
+Ziele für 26.10.2023
+1. Einen oberKUHLEN(coolen) Namen für unser Spiel erfinden. [quJS] ?[✅]
+2. Das Design um es aufzuhübschen(Farben).[✅]
+3. Sätze umformulieren mit mehr Branches.
+4. Upper und LowerCase Probleme lösen.[✅]
+5. Mitten im Spiel abbrechen.[✅]
+6. Und nen coolen Ladebalken[✅]
+7. Wenn wollen Highscore ---> Json
+
+Optionale Einstellungen:
+1. Die Maus verwenden um das Spiel zu bedienen.
+2. Und nen coolen Ladebalken
+3. Wenn wollen Highscore ---> Json
