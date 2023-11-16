@@ -9,7 +9,7 @@ Dies ist ein JavaScript-Programm für ein Quizspiel. Der Benutzer wählt den Sch
 
 ## Installation
 
-1. Klone das Repository: `git clone https://github.com/dein-benutzername/dein-projekt.git`.
+1. Klone das Repository: git@github.com:Johann4904/QuJS--Spiel.git.
 2. Wechsle in das Projektverzeichnis: `cd dein-projekt`.
 3. Installiere die Abhängigkeiten: `npm install`.
 4. Verwenden Sie den folgenden Befehl, um das chalk-Modul zu installieren: npm install chalk.
